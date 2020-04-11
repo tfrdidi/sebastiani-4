@@ -2,7 +2,7 @@
 title: Values
 image: /img/about-jumbotron.jpg
 values:
-  - heading: Shade-grown coffee
+  - heading: Neue Überschrift
     text: >
       Coffee is a small tree or shrub that grows in the forest understory in its
       wild form, and traditionally was grown commercially under other trees that
