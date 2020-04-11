@@ -4,7 +4,7 @@ image: /img/about-jumbotron.jpg
 values:
   - heading: Neue Überschrift
     text: >
-      und es gibt auch noch neuen Text
+      und es gibt auch noch neuen Text asdfa
     imageUrl: /img/about-shade-grown.jpg
   - heading: Single origin
     text: >
