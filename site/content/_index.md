@@ -1,20 +1,20 @@
 ---
-title: "Sebastiani lengfurt"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: "Sebastiani Lengfurt"
+subtitle: Ein besonderes Gelübde mit langer Geschichte
+image: /img/F-3122.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: Was ist Sebastiani?
+    text: "Das Sebastiani-Fest wird alljährlich am Wochenende vor oder nach dem Gedenktag des Hl. Sebastian, dem 20. Januar in Lengfurt, gefeiert. Es geht auf ein Gelübde der Lengfurter Bevölkerung aus dem Pestjahr 1632 zurück. Auf Grund der Fürbitte an den Hl. Sebastian soll damals die Pest gewichen sein. Die Lengfurter Bürger gelobten daraufhin alljährlich den Festtag des Hl. Sebastian zu begehen."
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    heading: "Was passiert am Sebastiani-Fest?"
+    text: "Das Fest wird jedes Jahr mit Fackelzug, militärischem Aufzug, Fahnenschwenken, Festgottesdienst und Andacht begangen. Organisiert und durchgeführt wird dieses Fest von den Mitgliedern des Sebastianivereins, stellvertretend für die gesamte Lengfurter Bevölkerung. Zu diesem Fest sind besonders alle Lengfurter, aber auch alle anderen Interessierten aus nah und fern eingeladen."
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+    - image: img/F-2966-thumb.jpg
+      text: "Der Auftakt des Festes ist der Zapfenstreich um 18:30 Uhr am Festsamstag. Die Trommler, die Musikkapelle und die Wachmannschaft treffen sich nach Einbruch der Dunkelheit am Marktplatz. Von dort aus wird dann mit Musik und Trommeln durch das Altort marschiert."
+    - image: /img/F-3200-thumb.jpg
+      text: "Der Höhepunkt des Festes ist das Fahnenschwenken. Die Soldaten bilden ein Viereck, das sogenannte Karree. Der Fähnrich tritt in die Mitte des Karrees und schwenkt die Fahne zu den Klängen des Stücks \"Über den Wellen\"."
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    heading: Unsere Geschichte
+    text: Der Sebastianiverein, dessen Geschichte in der Umgebung seines Gleichen sucht, erfreut sich unter den Lengfurtern nach wie vor großer Beliebtheit. Das Gelübde wird seit über 384 Jahren gepflegt und aktiv weitergegeben.
 ---
 
