@@ -15,6 +15,6 @@ ablauf:
       text: "Der Höhepunkt des Festes ist das Fahnenschwenken. Die Soldaten bilden ein Viereck, das sogenannte Karree. Der Fähnrich tritt in die Mitte des Karrees und schwenkt die Fahne zu den Klängen des Stücks \"Über den Wellen\"."
 geschichte:
     heading: Unsere Geschichte
-    text: Der Sebastianiverein, dessen Geschichte in der Umgebung seines Gleichen sucht, erfreut sich unter den Lengfurtern nach wie vor großer Beliebtheit. Das Gelübde wird seit über 384 Jahren gepflegt und aktiv weitergegeben.
+    text: Der Sebastianiverein, dessen Geschichte in der Umgebung seines Gleichen sucht, erfreut sich unter den Lengfurtern nach wie vor großer Beliebtheit. Das Gelübde wird seit über 388 Jahren gepflegt und aktiv weitergegeben. In diesen Jahren ist viel passiert.
 ---
 
