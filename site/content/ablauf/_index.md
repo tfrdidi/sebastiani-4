@@ -1,7 +1,7 @@
 ---
-title: Our Coffee
+title: Ablauf
 image: /img/products-jumbotron.jpg
-heading: What we offer
+heading: Ablauf-Überschrift
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -37,7 +37,7 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
     - image: img/about-direct-sourcing.jpg
-      text: testblub
+      text: testblubs
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -98,5 +98,5 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: '?'
-type: products
+type: ablauf
 ---
