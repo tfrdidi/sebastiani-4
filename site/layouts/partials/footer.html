@@ -50,4 +50,8 @@
 
 {{ partial "svg" . }}
 
-<script src="/app.js"></script>
+{{ if .IsHome }}
+	<script src="/app.js"></script>
+{{ end }}
+
+
