@@ -32,8 +32,8 @@
   .header .logo {
     display: block;
     float: left;
-    font-size: 2em;
-    padding: 10px 20px;
+    font-size: 1.6em;
+    padding: 8px 20px;
     text-decoration: none;
   }
   
@@ -55,7 +55,6 @@
     opacity: 1;
     display: inline-flex;
     height: 49px;
-    margin-top: 8px;
     background: none;
   }
   
@@ -65,7 +64,7 @@
     position: relative;
     transition: background .2s ease-out;
     width: 30px;
-    margin-top: 20px;
+    margin-top: 23px;
   }
   
   .header .menu-icon .navicon:before,
@@ -121,7 +120,7 @@
       float: left;
     }
     .header li a {
-      padding: 26px 30px;
+      padding: 18px 25px;
     }
     .header .burger-menu {
       clear: none;
