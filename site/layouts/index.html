@@ -2,12 +2,12 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
 
+{{ partial "blog" . }}
+
 {{ partial "short-text" .Params.blurb}}
 
 {{ partial "2-up" .Params }}
 
 {{ partial "text-and-image" (dict "heading" .Params.geschichte.heading "text" .Params.geschichte.text "buttonText" "Mehr lesen" "buttonLink" "/geschichte") }}
-
-{{ partial "blog" . }}
 
 {{ end }}
