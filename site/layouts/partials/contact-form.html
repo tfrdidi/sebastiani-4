@@ -2,7 +2,11 @@
 <div class="mb4">
   <h4 class="f3 b lh-title mb3 tc">Sende uns eine Nachricht</h4>
 
-  <form method="POST" action="/kontakt/nachricht-abgeschickt" data-netlify-recaptcha="true">
+  <form method="POST" action="/kontakt/nachricht-abgeschickt" netlify-honeypot="bot-field" data-netlify="true">
+
+    <p class="h-to-the-idden">
+      <label>Please give me this information <input name="bot-field" /></label>
+    </p>
 
     <div class="flex-l mhn1-l">
       <!-- Name -->
