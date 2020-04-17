@@ -1,7 +1,7 @@
 ---
 title: Ablauf des Sebastiani-Festes
-subtitle: Mit den Statuten aus dem Jahre 1866
-image: /img/F-1-wide.jpg
+subtitle: Mit den Statuten aus dem Jahr 1866
+image: /img/F-3223.jpg
 intro:
   heading: Der Ablauf
   description: >
@@ -34,13 +34,13 @@ main:
   description: >
     Sowohl die Uniformen als auch der genaue Ablauf des Festes geht auf die Statuten aus dem Jahr 1866 zurück. Damals wurde der Ablauf im Detail niedergeschrieben und bis heute durchgeführt. Uniformen und Ausrüstung wurde natürlich im Laufe der Zeit überarbeitet oder ergänzt. Die Gehröcke zum Beispiel kommen aus einer Zeit als eine Körpergröße von 1,80 Meter als außergewöhnlich groß galt.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: Aufstellung auf dem Marktplatz
     image: /img/F-3133-thumb.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: Festumzug durchs Altort in Lengfurt
     image: /img/F-2991-thumb.jpg
   image3:
-    alt: Coffee beans
+    alt: Aufmarsch auf dem Marktplatz
     image: /img/F-3222-med.jpg
 testimonials:
   - author: Lauri Jopp
