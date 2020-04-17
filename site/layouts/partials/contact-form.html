@@ -2,7 +2,8 @@
 <div class="mb4">
   <h4 class="f3 b lh-title mb3 tc">Sende uns eine Nachricht</h4>
 
-  <form method="POST" action="/kontakt/nachricht-abgeschickt" netlify>
+  <form method="POST" action="/kontakt/nachricht-abgeschickt" data-netlify-recaptcha="true">
+
     <div class="flex-l mhn1-l">
       <!-- Name -->
       <div class="ph1-l w-50-l">
@@ -29,8 +30,5 @@
     <div class="tc">
       <button type="submit" class="btn w-100 w-auto-ns raise">Abschicken</button>
     </div>
-
-    <!-- Netlify Integration -->
-    <div data-netlify-recaptcha></div>
   </form>
 </div>
