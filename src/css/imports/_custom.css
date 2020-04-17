@@ -2,6 +2,10 @@
   .h-to-the-idden {
     visibility: hidden;
   }
+
+  .mla {
+    margin-left: auto;
+  }
   
   figcaption p {
     color: var(--grey-3);
