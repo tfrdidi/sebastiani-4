@@ -1,0 +1,10 @@
+<figure class="customFigure mb4-m">
+    <a href="/img/{{ .Get "path" }}.jpg">
+        <img class="grow-little" src="/img/{{ .Get "path" }}-thumb.jpg" alt="{{ .Get "description" }}">
+    </a>
+    <figcaption>
+        <p class="f6">
+        {{ .Get "description" }}. <a class="link black" href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0</a>: {{ .Get "photographer" }} ({{ .Get "year"}})
+        </p> 
+    </figcaption>
+</figure>

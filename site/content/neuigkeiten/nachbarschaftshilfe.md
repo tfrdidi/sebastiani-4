@@ -1,10 +1,9 @@
-+++
-date = 2020-03-30T13:13:23Z
-featured_image = "img/nachbarschaftshilfe.jpg"
-images = []
-title = "Nachbarschaftshilfe"
-description = "Beschreibung"
-+++
+---
+date: 2020-03-30T13:13:23Z
+image: "img/nachbarschaftshilfe.jpg"
+title: "Nachbarschaftshilfe"
+description: "Der Sebasti Verein bietet in der Corona Zeit Nachbarschaftshilfe an."
+---
 Wer hätte gedacht, dass das Thema Seuchen in unserer Zeit uns so schnell wieder einholt?
 
 In diesen schwierigen Zeiten möchten wir uns auf unsere Wurzeln besinnen und allen, die auf Hilfe angewiesen sind, durch **Einkäufe, Botengänge** oder Ähnliches unterstützen. <!--more--> Das beschränkt sich nicht nur auf Lengfurt, sondern auf die **gesamte Gemeinde Triefenstein**.

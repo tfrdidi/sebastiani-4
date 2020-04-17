@@ -1,4 +1,8 @@
  
+  figcaption p {
+    color: var(--grey-3);
+  }
+  
   /* header */
   
   .header {
