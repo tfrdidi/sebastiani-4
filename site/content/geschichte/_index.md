@@ -10,7 +10,7 @@ geschichte:
     text: >
       In der Lengfurter Kirchenrechnung der Jahre 1638 bzw. 39 ist unter "Ausgabegeld" vermerkt: "2 Gulden, 8 Kreuzer und 4 Pfennige für eine alte Ausschussfahne, welche jetztunder auf das Fest S.Sebastiani gebraucht wird…".
       "Ausschüsse" waren in der damaligen Zeit Männer im wehrfähigen Alter der einzelnen Dörfer, die während eines Feldzuges der regulären Soldaten den Wachdienst an der Festung in Würzburg übernehmen mussten.
-    imageUrl: /img/WW153-thumb.jpg
+    imageUrl: /img/WW-153-thumb.jpg
   - heading: Bedeutung des Fahnenschwenkens damals 
     text: >
       Der Hintergrund des Fahnenschwenkens ist das Sammeln der Mannschaft um die jeweilige Fahne der militärischen Einheit. Solange die Fahne im Kampf gehalten wird, ist die Schlacht auch noch nicht verloren. Für die kämpfende Mannschaft stellte die Fahne auch ein weithin sichtbares Zeichen zur Orientierung dar. Im Mittelalter wurde das Fahnenschwingen bei religiösen, zivilen und militärischen Feierlichkeiten angewandt.
