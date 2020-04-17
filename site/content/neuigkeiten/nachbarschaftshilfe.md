@@ -12,4 +12,4 @@ Dabei sind wir auf alle angewiesen! Falls Sie aktuell keine Hilfe benötigen, **
 
 Werner Seitz, Tel. [**01512 8818311**](tel:015128818311 "01512 8818311") oder
 
-Thomas Hahmann, Tel. [**09395 8788232**](tel: 093958788232 "09395 8788232")
+Thomas Hahmann, Tel. [**09395 8788232**](tel:093958788232 "09395 8788232").
