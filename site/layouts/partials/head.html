@@ -1,6 +1,11 @@
 <head>
-
-  <title>{{ .Title }} | {{ $.Site.Title }}</title>
+  <title>
+    {{ if ne .Permalink "/"}}
+      {{ .Title }} | {{ $.Site.Title }}
+    {{ else }}
+      {{ $.Site.Title }}
+    {{ end }}
+  </title>
 
   {{ $stylesheet := .Site.Data.webpack.main }}
   {{ with $stylesheet.css }}
@@ -24,9 +29,9 @@
 
   <!-- Open Graph -->
   <meta property="og:type" content="website">
-  <meta property="og:title" content="Sebastiani Lengfurt">
+  <meta property="og:title" content="{{ if ne .Permalink "/"}} {{ .Title }} | {{ $.Site.Title }} {{ else }} {{ $.Site.Title }} {{ end }}">
   <meta property="og:url" content="/">
-  <meta property="og:image" content="/img/og-image.jpg">
+  <meta property="og:image" content="{{ if isset .Params "image" }} {{ .Params.image }} {{ else }} /img/og-image.jpg {{ end }}">
 
   {{ if hasPrefix .RelPermalink "/admin" }}
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
