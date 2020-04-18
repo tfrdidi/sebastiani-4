@@ -1,6 +1,11 @@
 {{ define "main" }}
 
-<h1>Nothing Here...</h1>
-<h3><a href="{{ "/" | relURL }}">Go Home</a></h3>
+{{ partial "jumbotron" (dict "imageUrl" "/img/F-2977.jpg" "title" "Seite wurde nicht gefunden") }}
 
+<div class="mw6 center ph3 pv4">
+    <div class="cms mw7">
+        Zurück zur <a href="/">Startseite</a>.
+    </div>
+</div>
+  
 {{ end }}
