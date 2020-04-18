@@ -1,0 +1,15 @@
+<div class="bg-off-white pv4">
+	<div class="ph3 mw7 center">
+
+		<div class="mhn2-ns mb3">
+			{{ range .videos }}
+				<div class="ph2-ns center pv4">
+                    <h3 class="f3 b tc">{{ .heading }}</h3>
+                    <iframe class="pv1" width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/{{ .youtubeid }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+                    </iframe>
+					<p class="center">{{ .description }}</p>
+				</div>
+			{{ end }}
+		</div>
+	</div>
+</div>
