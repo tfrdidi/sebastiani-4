@@ -106,7 +106,7 @@
   }
   
   .header .menu-btn:checked ~ .burger-menu {
-    max-height: 360px;
+    max-height: 380px;
   }
   
   .header .menu-btn:checked ~ .menu-icon .navicon {
