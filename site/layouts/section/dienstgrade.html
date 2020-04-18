@@ -1,0 +1,13 @@
+{{ define "main" }}
+
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
+
+<div class="ph3 mw7 center">
+  {{ range .Params.inhalt.dienstgrade }}
+    {{ partial "large-image" . }}
+  {{ end }}
+</div>
+
+<img src="{{ .Params.inhalt.full_image }}" alt="" class="db w-100">
+
+{{ end }}

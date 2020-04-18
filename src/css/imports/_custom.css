@@ -106,7 +106,7 @@
   }
   
   .header .menu-btn:checked ~ .burger-menu {
-    max-height: 240px;
+    max-height: 360px;
   }
   
   .header .menu-btn:checked ~ .menu-icon .navicon {
@@ -126,14 +126,13 @@
     top: 0;
   }
   
-  /* 48em = 768px */
   
-  @media (min-width: 48em) {
+  @media (min-width: 62em) {
     .header li {
       float: left;
     }
     .header li a {
-      padding: 18px 25px;
+      padding: 18px 18px;
     }
     .header .burger-menu {
       clear: none;
