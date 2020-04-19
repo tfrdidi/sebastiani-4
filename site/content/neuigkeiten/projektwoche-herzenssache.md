@@ -1,10 +1,10 @@
 ---
 title: Projektwoche Herzenssache
 date: 2019-06-27T13:13:23Z
-description: >-
+image: /img/F-2905.jpg
+subtitle: >-
   Die Grundschule Triefenstein hat in diesem Jahr die Projektwoche "Herzenssachen" für ihre Kinder durchgeführt.
   Bei dieser tollen Veranstaltung haben wir unsere Herzenssache, das Sebastinifest, vorgestellt.
-image: img/F-2905.jpg
 ---
 
 Die [Grundschule Triefenstein](http://www.grundschule-triefenstein.de) hat in diesem Jahr die Projektwoche "Herzenssachen" für ihre Kinder durchgeführt.

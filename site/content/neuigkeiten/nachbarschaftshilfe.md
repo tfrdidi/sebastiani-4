@@ -1,8 +1,10 @@
 ---
+title: Nachbarschaftshilfe
 date: 2020-03-30T13:13:23Z
-image: "img/nachbarschaftshilfe.jpg"
-title: "Nachbarschaftshilfe"
-description: "Der Sebasti Verein bietet in der Corona Zeit Nachbarschaftshilfe an."
+image: /img/nachbarschaftshilfe.jpg
+subtitle: >
+  Der Sebasti Verein bietet in der Corona Zeit Nachbarschaftshilfe an.
+type: artikel
 ---
 Wer hätte gedacht, dass das Thema Seuchen in unserer Zeit uns so schnell wieder einholt?
 

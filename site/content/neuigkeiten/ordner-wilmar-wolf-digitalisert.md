@@ -1,10 +1,10 @@
 ---
 title: Ordner von Wilmar Wolf digitalisiert
 date: 2019-04-10T23:00:00Z
-description: >-
+image: /img/ww-152.jpg
+subtitle: >-
   Nach dem Sebastianifest 2019 durfte ich einen umfangreichen Ordner von Wilmar Wolf zur Digitalisierung entgegen nehmen.
   Er enthält 151 alte Bilder, Dokumente ...
-image: img/ww-152.jpg
 ---
 
 Nach dem Sebastianifest 2019 durfte ich einen umfangreichen Ordner von Wilmar Wolf zur Digitalisierung entgegen nehmen.
