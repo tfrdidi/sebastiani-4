@@ -32,8 +32,9 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="{{ if ne .Permalink "/"}} {{ .Title }} | {{ $.Site.Title }} {{ else }} {{ $.Site.Title }} {{ end }}">
   <meta property="og:url" content="{{ .Permalink | absURL }}">
-  <meta property="og:image" content="{{ if isset .Params "image" }} {{ .Params.image | absUrl }} {{ else }} /img/og-image.jpg {{ absUrl }} {{ end }}">
+  <meta property="og:image" content="{{ if isset .Params "image" }} {{ .Params.image | absURL }} {{ else }} {{ "/img/og-image.jpg" | absURL }} {{ end }}">
   <meta property="og:description" content="{{ if isset .Params "subtitle" }} {{ .Params.subtitle }} {{ end }}">
+  <meta property="fb:app_id" content="1686276414970314">
   
   <!-- netlify cms-js -->
   {{ if hasPrefix .RelPermalink "/admin" }}
