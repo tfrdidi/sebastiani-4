@@ -33,6 +33,9 @@
   <meta property="og:title" content="{{ if ne .Permalink "/"}} {{ .Title }} | {{ $.Site.Title }} {{ else }} {{ $.Site.Title }} {{ end }}">
   <meta property="og:url" content="{{ .Permalink | absURL }}">
   <meta property="og:image" content="{{ if isset .Params "image" }} {{ .Params.image }} {{ else }} /img/og-image.jpg {{ end }}">
+  <meta property="og:description" content="{{ if isset .Params "subtitle" }} {{ .Params.subtitle }} {{ end }}">
+  
+  <!-- netlify cms-js -->
   {{ if hasPrefix .RelPermalink "/admin" }}
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   {{ end }}
