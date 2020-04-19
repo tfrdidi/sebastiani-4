@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="favicon.svg"
+   inkscape:version="1.0beta2 (3287d1b, 2019-12-24)"
+   inkscape:export-ydpi="381"
+   inkscape:export-xdpi="381"
+   inkscape:export-filename="C:\Projekte\HugoTestseite\one-click-hugo-cms\site\static\img\mstile-150x150.png"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 9.9999999 9.9999999"
+   height="1cm"
+   width="1cm">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="-5"
+     inkscape:window-x="1912"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     inkscape:snap-global="false"
+     inkscape:snap-page="true"
+     units="cm"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="cm"
+     inkscape:cy="65.645074"
+     inkscape:cx="99.032693"
+     inkscape:zoom="3.959798"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Ebene 1">
+    <rect
+       ry="1.403165"
+       y="0"
+       x="0"
+       height="10"
+       width="10"
+       id="rect979"
+       style="fill:#e6e6e6;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.0737px;line-height:1.25;font-family:Century;-inkscape-font-specification:Century;stroke-width:0.296617"
+       x="1.4015881"
+       y="9.0066462"
+       id="text955-3"><tspan
+         sodipodi:role="line"
+         id="tspan953-1"
+         x="1.4015881"
+         y="9.0066462"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Century;-inkscape-font-specification:Century;stroke-width:0.296617">S</tspan></text>
+  </g>
+</svg>
