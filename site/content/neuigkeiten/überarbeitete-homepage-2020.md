@@ -10,9 +10,9 @@ Da immer mehr Benutzer mobil unsere Webseite besuchen, ist es wichtig die Seite 
 Hierzu wurde der Unterbau der Webseite komplett überarbeitet und lädt damit **deutlich schneller**.
 
 Aber nicht nur die Technik macht eine gute Webseite, sondern auch der Inhalt.
-Alle Sektionen wurden mit **neuen Bildern versehen**. Außerdem wurden Texte ergänzt und erweitert.
+Alle Sektionen wurden mit [neuen Bildern versehen](/dienstgrade). Außerdem wurden Texte ergänzt und erweitert.
 
-Um das ganze angemessen zu präsentieren wurde die Seite auch **optisch überarbeitet** um die Bilder und Inhalte noch ansprechender zu präsenteiren.
+Um das ganze angemessen zu präsentieren wurde die Seite auch [optisch überarbeitet](/ablauf) um die Bilder und Inhalte noch ansprechender zu präsenteiren.
 Hoffentlich gefällt euch unser Internetauftritt.
 
 Wir freuen uns auf euer Feedback auf [Facebook](https://www.facebook.com/SebastianiLengfurt/) oder über unseren [Kontaktbereich](/kontakt).
