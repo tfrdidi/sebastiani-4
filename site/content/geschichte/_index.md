@@ -29,6 +29,6 @@ geschichte:
     imageUrl: img/F-13-thumb.jpg
   - heading: 1982 - 350 Jahre Sebastiani
     text: | 
-      Im Jahre 1982 wurde Sebastiani das 350ste Mal in Lengfurt gefeiert. Aus diesem Anlass kam auch Bischof ... aus Würzburg. Ihm zu Ehren wurde der Ablauf in diesem Jahr etwas angepasst. So holte ihn der Festzug bereits vom Pfarrheim ab. Gemeinsam mit den Sebastiani-Männern zogen sie dann in die Kirche ein.
+      Im Jahre 1982 wurde Sebastiani das 350ste Mal in Lengfurt gefeiert. Aus diesem Anlass kam auch Bischof Paul-Werner Scheele aus Würzburg. Ihm zu Ehren wurde der Ablauf in diesem Jahr etwas angepasst. So holte ihn der Festzug bereits vom Pfarrheim ab. Gemeinsam mit den Sebastiani-Männern zogen sie dann in die Kirche ein.
     imageUrl: img/F-69-thumb.jpg
 ---
