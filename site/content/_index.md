@@ -4,7 +4,7 @@ subtitle: Ein besonderes Gelübde mit langer Geschichte
 image: /img/F-3122.jpg
 blurb:
     heading: Was ist Sebastiani?
-    text: "Das Sebastiani-Fest wird alljährlich am Wochenende vor oder nach dem Gedenktag des Hl. Sebastian, dem 20. Januar in Lengfurt, gefeiert. Es geht auf ein Gelübde der Lengfurter Bevölkerung aus dem Pestjahr 1632 zurück. Auf Grund der Fürbitte an den Hl. Sebastian soll damals die Pest gewichen sein. Die Lengfurter Bürger gelobten daraufhin alljährlich den Festtag des Hl. Sebastian zu begehen."
+    text: "Das Sebastiani-Fest wird alljährlich am Wochenende vor oder nach dem Gedenktag des Hl. Sebastian, dem 20. Januar in Lengfurt, gefeiert. Es geht auf ein Gelübde der Lengfurter Bevölkerung aus dem Pestjahr 1632 zurück. Aufgrund der Fürbitte an den Hl. Sebastian soll damals die Pest gewichen sein. Die Lengfurter Bürger gelobten daraufhin alljährlich den Festtag des Hl. Sebastian zu begehen."
 intro:
     heading: "Was passiert am Sebastiani-Fest?"
     text: "Das Fest wird jedes Jahr mit Fackelzug, militärischem Aufzug, Fahnenschwenken, Festgottesdienst und Andacht begangen. Organisiert und durchgeführt wird dieses Fest von den Mitgliedern des Sebastianivereins, stellvertretend für die gesamte Lengfurter Bevölkerung. Zu diesem Fest sind besonders alle Lengfurter, aber auch alle anderen Interessierten aus nah und fern eingeladen."
