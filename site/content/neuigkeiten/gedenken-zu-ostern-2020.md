@@ -3,7 +3,7 @@ title: Was ein Pestgelübde mit Corona zu tun hat
 date: 2020-04-21T09:10:10.000Z
 image: /img/F-3453.jpeg
 subtitle: >
-  Auch wenn es in diesem Jahr keinen Gottesdienst für unsere Verstorebenen gibt, gedenken wir ihnen trotzdem...
+  Auch wenn es aktuell keinen Gottesdienst für unsere Verstorbenen gibt, gedenken wir ihnen trotzdem...
 ---
 
 In der Corona-Zeit gibt es in diesem Jahr keinen Gottesdienst für unsere Verstorbenen.
