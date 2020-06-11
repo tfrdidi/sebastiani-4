@@ -8,7 +8,7 @@ inhalt:
   videos: 
     - heading: Sebastiani-Fest 1976
       description: >
-        Die älteste Video-Dokumentation von Erich Schächer stammt aus dem Jahre 1976. An dem Film haben Pfarrer Edgar Dinkel, Peter Schinner, Erich Kohlhepp, Inge Kirsch, Ilse Schächer, Helmut Schulze, Bernhard Kohlhepp und Oswald Schächer gewirkt.
+        Diese Video-Dokumentation von Erich Schächer stammt aus dem Jahre 1976. An dem Film haben Pfarrer Edgar Dinkel, Peter Schinner, Erich Kohlhepp, Inge Kirsch, Ilse Schächer, Helmut Schulze, Bernhard Kohlhepp und Oswald Schächer gewirkt.
       youtubeid: vw6IPZOUpiU
 
     - heading: Sebastianifest 2001
