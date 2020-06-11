@@ -24,7 +24,7 @@ inhalt:
       
     - heading: Feldwebel
       description: >
-        Für jeden Zug gibt es einen Feldwebel als stellvertretenden Zugführer. Diese marschieren hintern ihren jeweiligen Leutnants. In der Fahnensektion läuft ein Feldwebel hinter dem Fähnrich. Alle Feldwebel tragen Zylinder und Säbel.
+        In jedem Zug gibt es einen Feldwebel als stellvertretenden Zugführer. In der Fahnensektion läuft ein Feldwebel hinter dem Fähnrich. Alle Feldwebel tragen Zylinder und Säbel.
       image: img/F-2471-med.jpg
     
     - heading: Wachhabender
@@ -34,7 +34,7 @@ inhalt:
       
     - heading: Tambour-Major
       description: >
-        Der Tambour-Major marschiert vor der Kapelle. Er gibt mit dem Tambour-Stab den Takt an und entscheidet, wann die Kapelle ihr Musikstück beendet und die Trommler einsetzen. Außerdem leitet der Tambour-Major die Fackelzüge am Samstag- und Sonntagabend.
+        Der Tambour-Major marschiert vor der Musikkapelle. Er gibt mit dem Tambour-Stab den Takt an und entscheidet, wann die Kapelle ihr Musikstück beendet und die Trommler einsetzen. Außerdem leitet der Tambour-Major die Fackelzüge am Samstag- und Sonntagabend.
       image: img/F-2983-med.jpg
       
     - heading: Fähnrich
@@ -49,7 +49,7 @@ inhalt:
       
     - heading: Trommler
       description: >
-        Es gibt bis zu sechs Trommler, die abwechselnd mit der Musikkapelle den Takt für die Soldaten angeben. Getrommelt wird bei den beiden Zapfenstreichen, beim Aufzug, zum Weckruf und vor den Gottesdiensten. Die Trommler tragen Zylinder und ihre Trommel.
+        Es gibt bis zu sechs Trommler, die abwechselnd mit der Musikkapelle den Takt für die Soldaten angeben. Getrommelt wird bei den beiden Zapfenstreichen, beim Aufzug, zum Weckruf und vor den Gottesdiensten. Die Trommler tragen Zylinder und anstatt der Krawatte eine Fliege.
       image: img/F-2468-med.jpg
 
     - heading: Wachmannschaft
