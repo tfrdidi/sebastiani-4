@@ -12,9 +12,5 @@
 [[plugins]]
   package = "netlify-plugin-a11y"
 
-
-[build]
-  publish = "public"
-
 [[plugins]]
   package = "netlify-plugin-hugo-cache-resources"
