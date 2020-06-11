@@ -9,13 +9,13 @@ intro:
   blurbs:
     - image: img/F-2966-thumb.jpg
       text: >
-        Samstag Abend: Der Auftakt des Sebastiani-Festes ist der Zapfenstreich mit Fackelzug durch das Altort. Im Anschluss gibt es einen gemütlichen Abend mit Hausmannskost im Pfarrheim Lengfurt.
+        Samstag Abend: Der Auftakt des Sebastiani-Festes ist der Zapfenstreich mit Fackelzug durch das Altort. Im Anschluss gibt es einen gemütlichen Abend im Pfarrheim Lengfurt.
     - image: /img/F-3354-thumb.jpg
       text: >
-        Sonntag Morgen: Kurz nach 9 Uhr ist Antreten am Marktplatz. Unter Musikbegleitung wird dann in voller Montour mit Gehrock, Zylinder und Gewehren in die Kirche marschiert. Gemeinsam wird der Festgottesdienst zelebriert.
+        Sonntag Morgen: Kurz nach 9 Uhr ist Antreten am Marktplatz. Unter Musikbegleitung wird dann in voller Montour mit Gehrock, Zylinder und Gewehren in die Kirche marschiert. Gemeinsam wird der Festgottesdienst gefeiert.
     - image: img/F-3299-thumb.jpg
       text: > 
-        Sonntag Mittag: Im Pfarrheim Lengfurt gibt es dann für alle Mittagessen. Im Anschluss, gegen 14 Uhr, ist dann wieder Antreten am Marktplatz. Von dort geht es dann zur Festandacht in die Kirche.
+        Sonntag Mittag: Im Pfarrheim Lengfurt wird nach dem Frühshoppen auch ein Mittagessen angeboten. Im Anschluss, gegen 14 Uhr, ist dann wieder Antreten am Marktplatz. Von dort geht es dann zur Festandacht in die Kirche.
     - image: /img/F-3200-thumb.jpg
       text: >
         Sonntag Nachmittag: Nach der Festandacht wird wieder am Marktplatz aufmarschiert. Die Sebastiani-Gemeinschaft bildet ein Karree (Aufstellung im Viereck) um den Fähnrich. Dieser schwenkt dann zu dem Lied "Über den Wellen" die Vereinsfahne zum Höhepunkt des Festes.
@@ -24,7 +24,7 @@ intro:
         Sonntag Abend: Wie am Samstag, gibt auch am Sonntag noch einmal Zapfenstreich mit Fackelzug durchs Altort. Im Anschluss geht es dann zum Festkonzert ins Pfarrheim.
     - image: /img/F-2871-thumb.jpg
       text: >
-        Sonntag Abend: Im Pfarrheim klingt der Sonntag-Abend bei einem Festkonzenert der Musikkappelle Lengfurt aus. Es gibt auch wieder warmes Essen und Getränke. Während des Festkonzertes finden ebenfalls die Ehrungen verdienter Vereinsmitglieder statt.
+        Sonntag Abend: Im Pfarrheim klingt der Sonntag-Abend bei einem Festkonzert der Musikkappelle Lengfurt aus. Während des Festkonzertes finden die Ehrungen verdienter Vereinsmitglieder statt.
     - image: /img/F-2199-thumb.jpg
       text: >
         Montag Morgen: Zum gemeinsamen Abschlussgottesdienst am Montag treffen sich die Teilnehmer wieder am Marktplatz. Diesmal nur mit Zylinder. Der Gottesdienst ist den Verstorbenen des Vereins gewidmet. Im Anschluss endet das Fest mit der Kassenablage im Pfarrheim Lengfurt.
