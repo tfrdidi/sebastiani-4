@@ -5,7 +5,7 @@ image: /img/F-3223.jpg
 intro:
   heading: Der Ablauf
   description: >
-    Der Gedenktag des heiligen Sebastian ist der 20. Januar. Die offizielle Zeremonie beginnt immer am Samstag des Wochenendes, das dem Gedenktag am nächsten ist. Das nächste Sebastiani-Fest beginnt am Samstag, den 23.01.2021 und endet am Montag, den 25.1.2021.
+    Der Gedenktag des heiligen Sebastian ist der 20. Januar. Die offizielle Zeremonie beginnt immer am Samstag des Wochenendes, das dem Gedenktag am nächsten ist. Das nächste Sebastiani-Fest beginnt am Samstag, den 16.01.2021 und endet am Montag, den 18.1.2021.
   blurbs:
     - image: img/F-2966-thumb.jpg
       text: >
