@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ef41ad15-0da8-42bf-b2d7-3a2f72114828/deploy-status)](https://app.netlify.com/sites/sebastiani/deploys)
+
 ## Local Deployment
 
 Then start the development server with `npm run local`.
