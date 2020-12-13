@@ -6,6 +6,8 @@ subtitle: >
   Hinweis für den kommenden Gedenktag des Hl. Sebastian im Jahr 2021
 ---
 
+**Hinweis: es gibt eine [aktualisierte Planung für 2021](/neuigkeiten/corona-info-für-2021-2/).**
+
 Auf Grund der Covid-19 bedingten Vorschriften plant die Vorstandschaft des Sebastiani-Vereins in Abstimmung mit der Gemeinde Triefenstein einen **geänderten Ablauf des Sebastiani-Gedenktages 2021**.
 
 Am 14. Oktober 2020 wurde eine Ausnahmegenehmigung zur Durchführung einer kulturellen Veranstaltung beim Landratsamt Main-Spessart beantragt. Durch das Landratsamt wurde bereits mitgeteilt, dass eine mögliche Genehmigung nur in Abhängigkeit aktueller Fallzahlen und Einstufungen zur Covid-19-Lage erfolgen könnte. 
@@ -50,3 +52,5 @@ Wir wissen es nicht, aber wir werden im
 fortlaufend auf den aktuellen Stand der Planung/Genehmigung hinweisen. 
 
 Bleibt gesund!
+
+**Hinweis: es gibt eine [aktualisierte Planung für 2021](/neuigkeiten/corona-info-für-2021-2/).**
