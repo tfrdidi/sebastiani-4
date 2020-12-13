@@ -5,7 +5,7 @@
   HUGO_ENV = "production"
 
 [build]
-  command = "yarn build"
+  command = "npm run build"
   publish = "dist"
 
 [context.deploy-preview]
