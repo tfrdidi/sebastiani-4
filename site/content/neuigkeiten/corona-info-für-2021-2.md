@@ -1,6 +1,6 @@
 ---
-title: Sebastiani 2021 - Update (Stand 13.12.2020)
-date: 2020-12-13T13:01:12.000Z
+title: Sebastiani 2021 - Update (Stand 31.12.2020)
+date: 2020-12-31T13:01:12.000Z
 image: /img/corona.jpg
 subtitle: >
   Aktualisierte Infos für den kommenden Gedenktag des Hl. Sebastian im Jahr 2021 - Stand 13.12.2020
@@ -17,5 +17,8 @@ Der Sebastiani-Verein Lengfurt hätte gerne das Gelübde unserer Vorfahren gegen
 Dem entgegen stehen jedoch die Vorgaben zur Eindämmung der Pandemie, vor allem die Kontaktbeschränkungen, die weder die Teilnehmer (Musikkapelle, Mannschaft) noch mögliche Zuschauer einhalten könnten.
 
 Der Sebastiani-Verein hofft, dass der Hl. Sebastian nach Pest und Cholera auch die weitere Ausbreitung der Covid-19-Pandemie verhindert und wir alle wieder zum „normalen Leben“ zurückkehren können.
+
+Bitte rechtzeitig die Teilnahme auch der aktiven Vereinsmitglieder mit dem Anmeldeformular im Pfarrbrief (liegen noch am Schriftenstand in der Kirche Lengfurt) oder bei Thomas Hahmann (Tel. 09395 1298) mitteilen.
+Auf Grund der Hygienevorgaben ist die Teilehmerzahl in der Pfarrkirche begrenzt. 
 
 Zu den aktuellen Entwicklungen halten wir Sie hier auf der Homepage auf dem Laufenden.
