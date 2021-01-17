@@ -3,10 +3,10 @@ title: "Kontakt"
 subtitle: "Wie du uns erreichst"
 image: "/img/F-3382.jpg"
 contact_entries:
-  - heading: Adresse
-    text: "Alfred-Delp-Straße 4, 97855 Triefenstein-Lengfurt"
   - heading: Ansprechpartner
-    text: "Hauptmann Oskar Aschauer"
+    text: "Hauptmann Thomas Hahmann,
+St. Sebastianus-Straße 6,
+97855 Lengfurt"
 ---
 
 Du möchtest etwas über Sebastiani in Lengfurt wissen, hast einen Fehler auf der Homepage gefunden oder möchtest Mitglied werden?
