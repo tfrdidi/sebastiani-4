@@ -33,6 +33,6 @@ geschichte:
     imageUrl: F-69
   - heading: 2021 – COVID-19
     text: > 
-      Im Januar 2020 schien die Pandemie noch weit weg von Lengfurt zu sein. Doch im Januar 2021 mussten wir aufgrund der COVID-19-Pandemie auf das militärische Zeremoniell des Sebastiani-Festes verzichten. Mit den Gottesdiensten am Sebastiani-Sonntag halten wir das Gelübde der Vorfahren aufrecht – Cronona-gerecht.
+      Im Januar 2020 schien die Pandemie noch weit weg von Lengfurt zu sein. Doch im Januar 2021 mussten wir aufgrund der COVID-19-Pandemie auf das militärische Zeremoniell des Sebastiani-Festes verzichten. Mit den Gottesdiensten am Sebastiani-Sonntag halten wir das Gelübde der Vorfahren aufrecht – Corona-gerecht.
     imageUrl: F-3476
 ---
