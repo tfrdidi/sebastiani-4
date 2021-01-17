@@ -1,9 +1,9 @@
 ---
-title: Sebastiani 2021 - Update (Stand 31.12.2020)
+title: Sebastiani 2021 – Update (Stand 31.12.2020)
 date: 2020-12-31T13:01:12.000Z
 image: /img/corona.jpg
 subtitle: >
-  Aktualisierte Infos für den kommenden Gedenktag des Hl. Sebastian im Jahr 2021 - Stand 13.12.2020
+  Aktualisierte Infos für den kommenden Gedenktag des Hl. Sebastian im Jahr 2021 – Stand 13.12.2020
 ---
 
 Da die Covid-19 Fallzahlen besonders im Landkreis Main-Spessart weiterhin ansteigen und ein bundesweiter „Lock down“ bevorsteht, hat sich die Vorstandschaft des Sebastiani-Vereins Lengfurt dazu entschlossen:
