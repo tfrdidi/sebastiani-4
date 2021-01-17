@@ -5,7 +5,9 @@ image: "/img/F-3382.jpg"
 contact_entries:
   - heading: Ansprechpartner
     text: "Hauptmann Thomas Hahmann,
+
 St. Sebastianus-Straße 6,
+
 97855 Lengfurt"
 ---
 
