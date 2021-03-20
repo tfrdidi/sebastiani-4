@@ -1,7 +1,7 @@
 ---
 title: Bilder vom Fest 2020
 date: 2021-03-17T13:04:11.000Z
-image: /img/2020/F-2966.jpg
+image: /img/2020/F-2966-thumb.jpg
 subtitle: >
   Bilder vom Fest 2020 sind online
 ---
