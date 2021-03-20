@@ -9,25 +9,25 @@ intro:
     
     Aufgrund von Corona wird das nächste Fest anders als geplant ablaufen. Genaueres wird über die Neuigkeiten auf dieser Seite kommuniziert.
   blurbs:
-    - image: img/F-2966-thumb.jpg
+    - image: F-2966
       text: >
         Samstag Abend: Der Auftakt des Sebastiani-Festes ist der Zapfenstreich mit Fackelzug durch das Altort. Im Anschluss gibt es einen gemütlichen Abend im Pfarrheim Lengfurt.
-    - image: /img/F-3354-thumb.jpg
+    - image: F-3354
       text: >
         Sonntag Morgen: Kurz nach 9 Uhr ist Antreten am Marktplatz. Unter Musikbegleitung wird dann in voller Montour mit Gehrock, Zylinder und Gewehren in die Kirche marschiert. Gemeinsam wird der Festgottesdienst gefeiert.
-    - image: img/F-3299-thumb.jpg
+    - image: F-3299
       text: > 
         Sonntag Mittag: Im Pfarrheim Lengfurt wird nach dem Frühshoppen auch ein Mittagessen angeboten. Im Anschluss, gegen 14 Uhr, ist dann wieder Antreten am Marktplatz. Von dort geht es dann zur Festandacht in die Kirche.
-    - image: /img/F-3200-thumb.jpg
+    - image: F-3200
       text: >
         Sonntag Nachmittag: Nach der Festandacht wird wieder am Marktplatz aufmarschiert. Die Sebastiani-Gemeinschaft bildet ein Karree (Aufstellung im Viereck) um den Fähnrich. Dieser schwenkt dann zu dem Lied "Über den Wellen" die Vereinsfahne zum Höhepunkt des Festes.
-    - image: /img/F-2670-thumb.jpg
+    - image: F-2670
       text: >
         Sonntag Abend: Wie am Samstag, gibt auch am Sonntag noch einmal Zapfenstreich mit Fackelzug durchs Altort. Im Anschluss geht es dann zum Festkonzert ins Pfarrheim.
-    - image: /img/F-2871-thumb.jpg
+    - image: F-2871
       text: >
         Sonntag Abend: Im Pfarrheim klingt der Sonntag-Abend bei einem Festkonzert der Musikkappelle Lengfurt aus. Während des Festkonzertes finden die Ehrungen verdienter Vereinsmitglieder statt.
-    - image: /img/F-2199-thumb.jpg
+    - image: F-2199
       text: >
         Montag Morgen: Zum gemeinsamen Abschlussgottesdienst am Montag treffen sich die Teilnehmer wieder am Marktplatz. Diesmal nur mit Zylinder. Der Gottesdienst ist den Verstorbenen des Vereins gewidmet. Im Anschluss endet das Fest mit der Kassenablage im Pfarrheim Lengfurt.
     
@@ -37,10 +37,10 @@ main:
     Sowohl die Uniformen als auch der genaue Ablauf des Festes geht auf die Statuten aus dem Jahr 1866 zurück. Damals wurde der Ablauf im Detail niedergeschrieben und bis heute durchgeführt. Uniformen und Ausrüstung wurde natürlich im Laufe der Zeit überarbeitet oder ergänzt. Die Gehröcke zum Beispiel kommen aus einer Zeit als eine Körpergröße von 1,80 Meter als außergewöhnlich groß galt.
   image1:
     alt: Aufstellung auf dem Marktplatz
-    image: /img/F-3133-thumb.jpg
+    image: F-3133
   image2:
     alt: Festumzug durchs Altort in Lengfurt
-    image: /img/F-2991-thumb.jpg
+    image: F-2992
   image3:
     alt: Aufmarsch auf dem Marktplatz
     image: /img/F-3222-med.jpg

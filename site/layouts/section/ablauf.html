@@ -1,5 +1,6 @@
 {{ define "main" }}
 
+<!-- Überschrift und Eingangstext -->
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
 
 <!-- Bilder mit Text darunter -->
@@ -14,17 +15,18 @@
   </div>
 </div>
 
-<!-- Image grid -->
+<!-- Image grid mit 2 kleinen und 1 großem Bild -->
 {{ partial "image-grid" . }}
 {{ end }}
 
+<!-- Zitate -->
 <div class="pb4">
   {{ range .Params.testimonials }}
     {{ partial "blockquote" . }}
   {{ end }}
 </div>
 
-<!-- Full-width image -->
+<!-- Abschlussbild über gesamte Breite -->
 <img src="{{ .Params.full_image }}" alt="" class="db w-100">
 
 {{ partial "table" .Params.pricing }}
