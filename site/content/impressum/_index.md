@@ -1,6 +1,6 @@
 ---
 title: Impressum
-image: /img/F-3023.jpg
+image: /img/2020/F-3023.jpg
 type: impressum
 ---
 

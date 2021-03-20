@@ -14,7 +14,7 @@ geschichte:
   - heading: Bedeutung des Fahnenschwenkens damals 
     text: >
       Der Hintergrund des Fahnenschwenkens ist das Sammeln der Mannschaft um die jeweilige Fahne der militärischen Einheit. Solange die Fahne im Kampf gehalten wird, ist die Schlacht auch noch nicht verloren. Für die kämpfende Mannschaft stellte die Fahne auch ein weithin sichtbares Zeichen zur Orientierung dar. Im Mittelalter wurde das Fahnenschwingen bei religiösen, zivilen und militärischen Feierlichkeiten angewandt.
-    imageUrl: F-3200
+    imageUrl: 2020/F-3200
   - heading: 1866 – Cholera in Lengfurt
     text: >
       Die Verehrung des Hl. Sebastian in Lengfurt lebte im Jahr 1866 erneut auf, als innerhalb von 24 Stunden zwei Todesfälle durch die Cholera im Ort zu beklagen waren. Die Lengfurter erinnerten sich an die Hilfe des Hl. Sebastian in früherer Zeit und erneuerten das Gelübde. Auch die Cholera erlosch. Eines der ersten Fotos von Sebastiani entstand ca. 30 Jahre später.
@@ -34,5 +34,5 @@ geschichte:
   - heading: 2021 – COVID-19
     text: > 
       Im Januar 2020 schien die Pandemie noch weit weg von Lengfurt zu sein. Doch im Januar 2021 mussten wir aufgrund der COVID-19-Pandemie auf das militärische Zeremoniell des Sebastiani-Festes verzichten. Mit den Gottesdiensten am Sebastiani-Sonntag halten wir das Gelübde der Vorfahren aufrecht – Corona-gerecht.
-    imageUrl: F-3476
+    imageUrl: 2021/F-3476
 ---

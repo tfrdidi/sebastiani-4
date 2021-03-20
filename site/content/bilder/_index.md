@@ -1,0 +1,68 @@
+---
+title: Bilder
+subtitle: Fotos vom Sebastianifest
+image: /img/2020/F-3300.jpg
+type: bilder
+intro:
+  heading: Sebastiani 2020
+  description: >
+    Zuletzt wurde das Sebastianifest im Januar 2020 nach dem gewohnten Ablauf zelebriert
+  blurbs:
+    - image: 2020/F-3483
+      text: >
+        Wie jedes Jahr fand am 6. Januar 2020 die alljährliche Hauptversammlung im Saalbau statt. Es kamen wieder zahlreiche Mitglieder
+    - image: 2020/F-3300
+      text: >
+        2020 wurde das 388-jährige Sebastiani Fest gefeiert
+    - image: 2020/F-2933
+      text: > 
+        Samstag Abend geht es los mit dem Fackelzug
+    - image: 2020/F-2966
+      text: >
+        An dieser Stelle einen herzlichen Dank an die Musikkapelle Lengfurt, die uns seit langen Jahren schon beim Fest unterstützt!
+    - image: 2020/F-3081
+      text: >
+        Pünktlich um 06:00 Uhr morgens ertönen die ersten Böllerschüsse vom Mainufer
+    - image: 2020/F-3122
+      text: >
+        Der Ablauf für die Soldaten beginnt Sonntag morgen mit dem Antreten am Marktplatz – 2020 zum letzten Mal unter Hauptmann Oskar Aschauer
+    - image: 2020/F-2983
+      text: >
+        Tambour Major Andreas Kohlhepp dirigiert die Musikkapelle nach dem morgendlichen Festgottesdienst
+    - image: 2020/F-3140
+      text: >
+        "Hochs Gewehr!"
+    - image: 2020/F-2992
+      text: >
+        Unter Trommelschlägen und mit Musikbegleitung geht es von der Kirche wieder auf den Marktplatz
+    - image: 2020/F-3107
+      text: >
+        Die ersten beim Umzug sind die Pioniere, links Edwin Herberich, rechts Markus Hoffart
+    - image: 2020/F-3222
+      text: >
+        Aufmarsch am Marktplatz.
+    - image: 2020/F-3010
+      text: >
+        Die Jüngsten bilden den Abschluss des Zuges
+    - image: 2020/F-3023
+      text: >
+        Zum Fahnenschwenken wird die Fahne gewechselt
+    - image: 2020/F-3200
+      text: >
+        Am Nachmittag formieren sich die Soldaten zum Karree für das anschließende Fahnenschwenken
+    - image: 2020/F-3399
+      text: >
+        Der Höhepunkt des Tages: Fahnenschwenken von Fähnrich Rüdiger Schreck
+    - image: 2020/F-3223
+      text: >
+        Der Fähnrich wird begleitet von der Musikkapelle Lengfurt mit dem Musikstück "Über den Wellen"
+    - image: 2020/F-3078
+      text: >
+        Wachmannschaft und Trommler unter Leutnant Thomas Baumann
+    - image: 2020/F-3080
+      text: >
+        Die Offiziere, Leutnants und Pioniere vom Festjahr 2020
+    - image: 2020/F-3095
+      text: >
+        Beim abendlichen Festkonzert wurden langjährige Mitglieder geehrt
+---

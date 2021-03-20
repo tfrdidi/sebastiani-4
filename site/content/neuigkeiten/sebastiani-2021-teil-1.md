@@ -14,8 +14,8 @@ subtitle: >
 
 Hier einige Eindrücke vom diesjährigen Fest:
 
-{{< custom-figure path="F-3477" description="Der geschmückte Seitenaltar darf natürlich nicht fehlen. Ebenso das Sebastian-Bild" photographer="Lukas Hahmann" year="2021">}}
-{{< custom-figure path="F-3478" description="Seit einigen Monaten hängt die rote Fahne schon in der Kirche. Ein äußeres Zeichen unseres Gedenkens an die Ursprünge" photographer="Lukas Hahmann" year="2021">}}
-{{< custom-figure path="F-3479" description="Jede zweite Bank muss frei bleiben, außerdem dürfen sich die Gottesdienstbesucher nur außen hinsetzen" photographer="Lukas Hahmann" year="2021">}}
-{{< custom-figure path="F-3480" description="Um die Kontaktmöglichkeiten zu reduzieren, ist der Haupteingang der Einlass und der Seiteneingang, der hier abgebildet ist, der Ausgang" photographer="Lukas Hahmann" year="2021">}}
-{{< custom-figure path="F-3481" description="In der Nacht auf den heutigen Sebastiani-Sonntag hat es einige Zentimeter geschneit. So ist der Kranz um den Heiligen Sebastian fast nicht mehr zu erkennen" photographer="Lukas Hahmann" year="2021">}}
+{{< custom-figure path="2021/F-3477" description="Der geschmückte Seitenaltar darf natürlich nicht fehlen. Ebenso das Sebastian-Bild" photographer="Lukas Hahmann" year="2021">}}
+{{< custom-figure path="2021/F-3478" description="Seit einigen Monaten hängt die rote Fahne schon in der Kirche. Ein äußeres Zeichen unseres Gedenkens an die Ursprünge" photographer="Lukas Hahmann" year="2021">}}
+{{< custom-figure path="2021/F-3479" description="Jede zweite Bank muss frei bleiben, außerdem dürfen sich die Gottesdienstbesucher nur außen hinsetzen" photographer="Lukas Hahmann" year="2021">}}
+{{< custom-figure path="2021/F-3480" description="Um die Kontaktmöglichkeiten zu reduzieren, ist der Haupteingang der Einlass und der Seiteneingang, der hier abgebildet ist, der Ausgang" photographer="Lukas Hahmann" year="2021">}}
+{{< custom-figure path="2021/F-3481" description="In der Nacht auf den heutigen Sebastiani-Sonntag hat es einige Zentimeter geschneit. So ist der Kranz um den Heiligen Sebastian fast nicht mehr zu erkennen" photographer="Lukas Hahmann" year="2021">}}

@@ -1,7 +1,7 @@
 ---
 title: Filme
 subtitle: Bewegte Bilder vom Sebastiani-Fest
-image: /img/F-3023.jpg
+image: /img/2020/F-3023.jpg
 type: filme
 inhalt: 
   heading: test
