@@ -6,7 +6,7 @@ subtitle: >
   Noch nicht absehbar, wann wir uns zur Hauptversammlung treffen dürfen ...
 ---
 
-Die aktuelle Covid-19 Situation lässt keine verlässliche Planung für eine Hauptversammlung zu. Es ist im Moment nicht absehbar, wann 2021 eine Sebastiani Hauptversammlung stattfinden kann. Aus diesem Grund werden wir den geplanten Termin für die Hauptversammlung nach Ostern bis auf weiteres verschieben.
+Die aktuelle Covid-19 Situation lässt keine verlässliche Planung für eine Hauptversammlung zu. Es ist im Moment nicht absehbar, wann 2021 eine Sebastiani Hauptversammlung stattfinden kann. Aus diesem Grund werden wir den geplanten Termin für die Hauptversammlung nach Ostern bis auf Weiteres verschieben.
 
 Sobald die Pandemie es zulässt und es wieder mehr Planungssicherheit gibt, werden wir über [Facebook](https://www.facebook.com/SebastianiLengfurt), die Homepage, aber auch Zeitung und Anzeigenblatt darüber informieren.
 
