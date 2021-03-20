@@ -1,7 +1,7 @@
 ---
 title: Sebastiani 2021
 date: 2021-01-17T10:01:12.000Z
-image: /img/F-3476-med.jpg
+image: /img/2021/F-3476-med.jpg
 subtitle: >
   Das etwas andere Sebastiani-Fest. Corona hat uns fest im Griff.
 ---
