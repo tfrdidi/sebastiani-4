@@ -1,7 +1,7 @@
 ---
 title: Sebastiani-Gottesdienste 2021
 date: 2021-01-07T13:01:12.000Z
-image: /img/F-3354.jpg
+image: /img/2020/F-3354.jpg
 subtitle: >
   Uhrzeiten der Gottesdienste 2021
 ---
