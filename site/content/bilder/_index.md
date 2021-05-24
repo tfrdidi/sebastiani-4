@@ -10,7 +10,7 @@ zwanzig:
   blurbs:
     - image: 2020/F-3483
       text: >
-        Wie jedes Jahr fand am 6. Januar 2020 die alljährliche Hauptversammlung im Saalbau statt. Es kamen wieder zahlreiche Mitglieder
+        Wie jedes Jahr fand am 6. Januar 2020 die alljährliche Hauptversammlung im Pfarrheim Adolf Kolping statt. Es kamen wieder zahlreiche Mitglieder
     - image: 2020/F-3300
       text: >
         2020 wurde das 388-jährige Sebastiani Fest gefeiert
@@ -28,7 +28,7 @@ zwanzig:
         Der Ablauf für die Soldaten beginnt Sonntag morgen mit dem Antreten am Marktplatz – 2020 zum letzten Mal unter Hauptmann Oskar Aschauer
     - image: 2020/F-3299
       text: >
-        Der Seitenaltar wird am Sebastiani-Wochende immer für den Heiligen Sebastian resviert und besorders geschmückt
+        Der Seitenaltar wird am Sebastiani-Wochende immer für den Heiligen Sebastian besorders geschmückt
     - image: 2020/F-3354
       text: >
         Der Festgottesdienst am Morgen ist fester Bestandteil des Sebastiani-Wochenendes
@@ -37,13 +37,13 @@ zwanzig:
         Tambour Major Andreas Kohlhepp dirigiert die Musikkapelle nach dem morgendlichen Festgottesdienst
     - image: 2020/F-3140
       text: >
-        "Hochs Gewehr!"
+        "Präsentiert's Gewehr!"
     - image: 2020/F-2992
       text: >
         Unter Trommelschlägen und mit Musikbegleitung geht es von der Kirche wieder auf den Marktplatz
     - image: 2020/F-3107
       text: >
-        Die ersten beim Umzug sind die Pioniere, links Edwin Herberich, rechts Markus Hoffart
+        Die Ersten beim Umzug sind die Pioniere, links Edwin Herberich, rechts Markus Hoffart
     - image: 2020/F-3222
       text: >
         Aufmarsch am Marktplatz.
@@ -67,7 +67,7 @@ zwanzig:
         Wachmannschaft und Trommler unter Leutnant Thomas Baumann
     - image: 2020/F-3080
       text: >
-        Die Offiziere, Leutnants und Pioniere vom Festjahr 2020
+        Die Offiziere, Feldwebel und Pioniere von 2020
     - image: 2020/F-3095
       text: >
         Beim abendlichen Festkonzert wurden langjährige Mitglieder geehrt
@@ -84,7 +84,7 @@ neunzehn:
         Antreten am Marktplatz unter Hauptmann Aschauer
     - image: 2019/F-2497
       text: >
-        Auf in die Kirche. Hier im Bild: Hauptmann Oskar Aschauer, Oberleutnant Thomas Hahmann und der erste Zug
+        Hier im Bild: Hauptmann Oskar Aschauer, Oberleutnant Thomas Hahmann und der erste Zug
     - image: 2019/F-2490
       text: >
         Die Wachmannschaft unter Thomas Baumann bildet den dritten Zug
@@ -93,7 +93,7 @@ neunzehn:
         Beim Einmarsch in die Kirche bleibt nicht viel Platz im Mittelgang
     - image: 2019/F-2613
       text: >
-        Sobald die Fahne bewegt wird, werden auch die Gewehre präsentiert
+        Die Fahne wird erst bewegt, wenn die Gewehre präsentiert werden
     - image: 2019/F-2638
       text: >
         Nach dem Gottesdienst stellen sich die Soldaten wieder vor der Kirche auf
