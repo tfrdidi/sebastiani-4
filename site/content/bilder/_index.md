@@ -37,7 +37,7 @@ zwanzig:
         Tambour Major Andreas Kohlhepp dirigiert die Musikkapelle nach dem morgendlichen Festgottesdienst
     - image: 2020/F-3140
       text: >
-        "Präsentiert's Gewehr!"
+        "Präsentiert das Gewehr!"
     - image: 2020/F-2992
       text: >
         Unter Trommelschlägen und mit Musikbegleitung geht es von der Kirche wieder auf den Marktplatz
