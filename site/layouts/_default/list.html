@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict "imageUrl" "/img/2021/F-3476.jpg" "title" "Neuigkeiten" "subtitle" "Alles Neue um Sebastiani in Lengfurt") }}
+{{ partial "jumbotron" (dict "imageUrl" "/img/2021/F-3476.jpg" "title" .Title "subtitle" .Params.subtitle) }}
 
 <div class="mw7 center">
   <ul class="flex-ns flex-wrap mhn1-ns pa3">
