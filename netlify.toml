@@ -12,7 +12,4 @@
   command = "yarn build:preview"
 
 [[plugins]]
-  package = "netlify-plugin-a11y"
-
-[[plugins]]
   package = "netlify-plugin-hugo-cache-resources"
