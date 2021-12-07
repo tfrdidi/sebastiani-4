@@ -1,5 +1,5 @@
 ---
-title: Sebastiani-Fest 2022 - Ankündigung
+title: Sebastiani-Fest 2022 – Ankündigung
 date: 2021-10-12T19:01:12.000Z
 image: /img/2020/F-3483.jpg
 subtitle: >

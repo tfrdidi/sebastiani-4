@@ -1,5 +1,5 @@
 ---
-title: Sebastiani 2022 – Update (Stand 07.12.2021)
+title: Sebastiani-Fest 2022 – Update (Stand 07.12.2021)
 date: 2021-12-07T13:01:12.000Z
 image: /img/corona.jpg
 subtitle: >
