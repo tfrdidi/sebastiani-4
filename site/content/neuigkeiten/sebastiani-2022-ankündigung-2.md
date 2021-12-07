@@ -16,3 +16,5 @@ Da es sich bei der Generalversammlung um eine Veranstaltung handelt, wäre hier 
 Sollten auch in Bayern die Obergrenzen mit Kontaktbeschränkungen bei Veranstaltungen für geimpfte/genesene Personen (50 Personen innen / 200 Personen außen) festgelegt werden, käme es zu einer erneuten Absage der "äußeren" Feier des Gedenktages. 
  
 Über aktuelle Entwicklungen berichten wir hier, auf Facebook und über die lokalen Medien.
+
+PS: schaut doch bis dahin mal bei den Bildern der Jahre [2018](/bilder/2018/) oder [2019](/bilder/2019/) vorbei.

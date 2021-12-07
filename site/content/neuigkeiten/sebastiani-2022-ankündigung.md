@@ -6,14 +6,18 @@ subtitle: >
   Planungen für das Sebastiani-Fest 2022
 ---
 
-Der Sebastiani-Verein Lengfurt hofft, nach dem pandemiebedingten Ausfall der "äußeren Feier" im Jahr 2021 für das kommende Jahr wieder den Gedenktag des Hl. Sebastian in gewohnter Weise begehen zu können. 
+**Mittlerweile gibt es schon wieder ein [Update](/neuigkeiten/sebastiani-2022-ankündigung-2/)!**
 
-Termin: Samstag, 22. Januar bis Montag, 24. Januar 2022.
+*Der Sebastiani-Verein Lengfurt hofft, nach dem pandemiebedingten Ausfall der "äußeren Feier" im Jahr 2021 für das kommende Jahr wieder den Gedenktag des Hl. Sebastian in gewohnter Weise begehen zu können.*
 
-Neben beiden Zapfenstreichen (Samstag, 18:30 Uhr, und Sonntag, 18:00 Uhr) sind der Festgottesdienst (Sonntag, 09:15 Uhr) die Festandacht (Sonntag 14:00 Uhr) mit anschließenden Fahnenschwenken und der Gottesdienst für die verstorbenen Mitglieder (Montag, 09:00 Uhr) geplant. 
+*Termin: Samstag, 22. Januar bis Montag, 24. Januar 2022.*
 
-Offen ist derzeit noch, ob die Mannschaft mit der Musikkapelle in die Kirche einziehen kann und eine Bewirtung am Festsonntag mit Konzertabend (Pfarrheim Adolf Kolping oder Saalbau) erfolgen kann. 
+*Neben beiden Zapfenstreichen (Samstag, 18:30 Uhr, und Sonntag, 18:00 Uhr) sind der Festgottesdienst (Sonntag, 09:15 Uhr) die Festandacht (Sonntag 14:00 Uhr) mit anschließenden Fahnenschwenken und der Gottesdienst für die verstorbenen Mitglieder (Montag, 09:00 Uhr) geplant.*
 
-Wir hoffen, dass bis spätestens zur Generalversammlung des Sebastiani-Vereins am Dreikönigstag (Donnerstag, 06. Januar 2022, 14:30 Uhr, Pfarrheim oder Saalbau) die derzeitigen Einschränkungen nicht mehr gültig sind. 
+*Offen ist derzeit noch, ob die Mannschaft mit der Musikkapelle in die Kirche einziehen kann und eine Bewirtung am Festsonntag mit Konzertabend (Pfarrheim Adolf Kolping oder Saalbau) erfolgen kann.*
 
-Über aktuelle Entwicklungen berichten wir hier, im Pfarrbrief oder in der Tagespresse. 
+*Wir hoffen, dass bis spätestens zur Generalversammlung des Sebastiani-Vereins am Dreikönigstag (Donnerstag, 06. Januar 2022, 14:30 Uhr, Pfarrheim oder Saalbau) die derzeitigen Einschränkungen nicht mehr gültig sind.*
+
+*Über aktuelle Entwicklungen berichten wir hier, im Pfarrbrief oder in der Tagespresse.*
+
+**Mittlerweile gibt es schon wieder ein [Update](/neuigkeiten/sebastiani-2022-ankündigung-2/)!**
