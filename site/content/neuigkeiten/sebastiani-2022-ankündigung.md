@@ -6,7 +6,7 @@ subtitle: >
   Planungen für das Sebastiani-Fest 2022
 ---
 
-**Mittlerweile gibt es schon wieder ein [Update](/neuigkeiten/sebastiani-2022-ankündigung-2/)!**
+**Mittlerweile gibt es schon wieder ein [Update](/neuigkeiten/sebastiani-2022-ankündigung-3/)!**
 
 *Der Sebastiani-Verein Lengfurt hofft, nach dem pandemiebedingten Ausfall der "äußeren Feier" im Jahr 2021 für das kommende Jahr wieder den Gedenktag des Hl. Sebastian in gewohnter Weise begehen zu können.*
 
@@ -20,4 +20,4 @@ subtitle: >
 
 *Über aktuelle Entwicklungen berichten wir hier, im Pfarrbrief oder in der Tagespresse.*
 
-**Mittlerweile gibt es schon wieder ein [Update](/neuigkeiten/sebastiani-2022-ankündigung-2/)!**
+**Mittlerweile gibt es schon wieder ein [Update](/neuigkeiten/sebastiani-2022-ankündigung-3/)!**
