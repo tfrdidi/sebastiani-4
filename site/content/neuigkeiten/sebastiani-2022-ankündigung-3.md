@@ -10,7 +10,7 @@ Wie bereits im Januar 2021 kann auch im kommenden Jahr, trotz fortgeschrittener 
 
 Die aktuellen Vorgaben der bayerischen Infektionsschutzmaßnahmen zur Kontaktbeschränkung lassen weder eine Generalversammlung am Dreikönigstag noch die Zusammenkunft von weit über 100 Personen im Ortsbereich am Festsonntag zu.  
 
-So verbleiben am Festwochenende die drei Gottesdienste am **Sonntag, 23.01.2022, um 09:15 Uhr**, die **Festandacht um 14:00 Uhr** (beide Gottesdienste nach 3-G-Regelung) und am **Montag, 24.01.2022, der Gedenkgottesdienst** für die verstorbenen Vereinsmitglieder.
+So verbleiben am Festwochenende die drei Gottesdienste am **Sonntag, 23.01.2022, um 09:15 Uhr**, die **Festandacht um 14:00 Uhr** (beide Gottesdienste nach 3-G-Regelung) und am **Montag, 24.01.2022, um 09:00 Uhr, der Gedenkgottesdienst** für die verstorbenen Vereinsmitglieder.
 
 Der Sebastiani-Verein möchte das Gelöbnis der Lengfurter Vorfahren, alljährlich dem Hl. Sebastian militärisch zu gedenken, erfüllen und hofft dies zu einem späteren Zeitpunkt im Jahr 2022 nachholen zu können. 
 
