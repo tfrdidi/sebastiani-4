@@ -23,7 +23,7 @@ intro:
     - image: 2019/F-2871
       text: >
         Sonntag Abend: Im Pfarrheim klingt der Sonntag-Abend bei einem Festkonzert der Musikkappelle Lengfurt aus. Während des Festkonzertes finden die Ehrungen verdienter Vereinsmitglieder statt.
-    - image: F-2199
+    - image: 2017/F-2199
       text: >
         Montag Morgen: Zum gemeinsamen Abschlussgottesdienst am Montag treffen sich die Teilnehmer wieder am Marktplatz. Diesmal nur mit Zylinder. Der Gottesdienst ist den Verstorbenen des Vereins gewidmet. Im Anschluss endet das Fest mit der Kassenablage im Pfarrheim Lengfurt.
     
