@@ -2,6 +2,12 @@
 
 <!-- Überschrift und Eingangstext -->
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
+<div class="mw7 center pv4">
+  <div class="mw7 ph3 mb3">
+    <h2 class="f2 b lh-title mb2">{{ .Params.intro.heading }}</h2>
+    <div class="mb4 mw7"> {{ .Content }} </div>
+  </div>
+</div>
 
 <!-- Bilder mit Text darunter -->
 {{ partial "4-up" .Params.intro }}
@@ -11,9 +17,10 @@
 <div class="mw7 center">
   <div class="mw7 ph3 mb3">
     <h3 class="f3 b lh-title mb2">{{ .heading }}</h3>
-    <p class="mb4 mw7">{{ .description }}</p>
+    {{ .description }}
   </div>
 </div>
+
 
 <!-- Image grid mit 2 kleinen und 1 großem Bild -->
 {{ partial "image-grid" . }}
