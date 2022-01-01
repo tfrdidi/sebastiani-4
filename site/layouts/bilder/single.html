@@ -4,24 +4,35 @@
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
 
 <div class="mw7 center pv4">
-  <div class="mw7 ph3 mb3">
-    <div class="mb4 mw7"> {{ .Content }} </div>
+  <div class="mw7 mb3">
+    <div class="mw7"> {{ .Content }} </div>
   </div>
 </div>
 
+<div class="mw7 center pv4">
+  <div class="flex-l center mw7 flex-ns justify-between-ns">
+        {{ with .PrevInSection }}
+          <a href="{{ .Permalink }}">🠔 {{ .Title }}</a>
+        {{ end }}
+        <a href="/bilder">Übersicht</a>
+        {{ with .NextInSection }}
+          <a href="{{ .Permalink }}">{{ .Title }} 🠖</a>
+        {{ end }}
+  </div>
+</div>
 
 <!-- Bilder mit Text darunter -->
 {{ partial "4-up" .Params.year }}
 
 
-<div class="bg-grey-1 pv4">
-    <div class="flex-l mhn1-l ph3 center mw7 flex-ns justify-between-ns">
+<div class="mw7 center pv4">
+    <div class="flex-l mhn1-l center mw7 flex-ns justify-between-ns">
           {{ with .PrevInSection }}
-            <a href="{{ .Permalink }}">{{ .Title }}</a>
+            <a href="{{ .Permalink }}">🠔 {{ .Title }}</a>
           {{ end }}
           <a href="/bilder">Übersicht</a>
           {{ with .NextInSection }}
-            <a href="{{ .Permalink }}">{{ .Title }}</a>
+            <a href="{{ .Permalink }}">{{ .Title }} 🠖</a>
           {{ end }}
     </div>
 </div>
