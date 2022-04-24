@@ -1,5 +1,5 @@
 ---
-title: Geplanter Sebastiani-Aufzug mit Fahnenschwenken
+title: Sebastiani-Aufzug mit Fahnenschwenken im Sommer 2022
 date: 2022-04-24T10:04:10.000Z
 image: /img/2020/F-3223.jpg
 subtitle: >-
