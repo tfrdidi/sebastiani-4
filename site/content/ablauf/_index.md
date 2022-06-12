@@ -51,6 +51,4 @@ full_image: /img/2020/F-3223.jpg
 type: ablauf
 ---
 
-Der Gedenktag des heiligen Sebastian ist der 20. Januar. Die offizielle Zeremonie beginnt immer am Samstag des Wochenendes, das dem Gedenktag am nächsten ist. Das nächste Sebastiani-Fest beginnt am Samstag, den 22.01.2022 und endet am Montag, den 24.01.2022. 
-
-Aufgrund von Corona wird das nächste Fest anders als geplant ablaufen. Genaueres wird über die [Neuigkeiten](/neuigkeiten) auf dieser Seite kommuniziert.
+Der Gedenktag des heiligen Sebastian ist der 20. Januar. Die offizielle Zeremonie beginnt immer am Samstag des Wochenendes, das dem Gedenktag am nächsten ist. Das nächste Sebastiani-Fest findet aufgrund von Corona anders als sonst statt. Es wird am 3.7.2022 durchgeführt. [Hier ist der detaillierte Ablauf](/neuigkeiten/detailierter-ablauf-sebastiani-2022/).
