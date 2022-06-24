@@ -1,7 +1,7 @@
 ---
 title: Detailierter Ablauf vom Sebastiani-Aufzug im Sommer 2022
 date: 2022-06-12T08:04:10.000Z
-image: /img/2022/F-3540.jpg
+image: /img/2022/Ablauf2022.jpg
 subtitle: >-
   Da wir in diesem Jahr das Sebastianifest anders begehen, hier der detaillierte Ablauf für den 3. Juli ...
 ---
