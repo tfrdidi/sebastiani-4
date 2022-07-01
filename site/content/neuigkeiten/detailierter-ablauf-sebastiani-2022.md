@@ -11,7 +11,7 @@ subtitle: >-
 Es wird in diesem Jahr 2 Gewehrausgaben geben:
 
 * Mittwoch, 29.06.2022 von 19:00 bis 20:00 Uhr und
-* Samstag, 02.07.2022 von 10:00 bis 12:00 Uhr.
+* Samstag, 02.07.2022 von 11:00 bis 12:00 Uhr.
 
 <br />
 <br />
