@@ -5,15 +5,20 @@
 
 <div class="mw7 center pv4">
   <div class="flex center mw7 flex justify-between ph3">
-    {{ with .NextInSection }}
-      <a href="{{ .Permalink }}">← {{ .Title }}</a>
+    {{ if .NextInSection }}
+      <a href="{{ .NextInSection.Permalink }}">← {{ .NextInSection.Title }}</a>
+    {{ else }}
+      <span style="min-width:77px"> </span>
     {{ end }}
     <a href="/bilder">Bilder-Übersicht</a>
-    {{ with .PrevInSection }}
-      <a href="{{ .Permalink }}">{{ .Title }} →</a>
+    {{ if .PrevInSection }}
+      <a href="{{ .PrevInSection.Permalink }}">{{ .PrevInSection.Title }} →</a>
+    {{ else }}
+      <span style="min-width:77px"> </span>
     {{ end }}
   </div>
 </div>
+
 
 <div class="mw7 center pv4">
   <div class="mw7 mb3 ph3">
@@ -27,12 +32,16 @@
 
 <div class="mw7 center pv4">
   <div class="flex center mw7 flex justify-between ph3">
-    {{ with .NextInSection }}
-      <a href="{{ .Permalink }}">← {{ .Title }}</a>
+    {{ if .NextInSection }}
+      <a href="{{ .NextInSection.Permalink }}">← {{ .NextInSection.Title }}</a>
+    {{ else }}
+      <span style="min-width:77px"> </span>
     {{ end }}
     <a href="/bilder">Bilder-Übersicht</a>
-    {{ with .PrevInSection }}
-      <a href="{{ .Permalink }}">{{ .Title }} →</a>
+    {{ if .PrevInSection }}
+      <a href="{{ .PrevInSection.Permalink }}">{{ .PrevInSection.Title }} →</a>
+    {{ else }}
+      <span style="min-width:77px"> </span>
     {{ end }}
   </div>
 </div>
