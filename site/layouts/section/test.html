@@ -1,25 +1,26 @@
 {{ define "main" }}
 
+{{ partial "jumbotron-no-image" (dict "title" .Title) }}
 
-<div class="container">
-  <h1 class="title">Responsive Slider Timeline</h1>
-  <div class="timeline">
-    <div class="swiper-container">
-      <div class="swiper-wrapper">
-        {{ range $index, $element := .Params.geschichte }}
-          <div class="swiper-slide" style="background-image: url(/img/{{.imageUrl}}.jpg)" data-year="{{ .year }}">
-            <div class="swiper-slide-content"><span class="timeline-year">{{ .year }}</span>
-              <h4 class="timeline-title">{{ .heading }}</h4>
-              <p class="timeline-text">{{ .text }}</p>
+
+  <div class="container">
+    <div class="timeline">
+      <div class="swiper-container">
+        <div class="swiper-wrapper">
+          {{ range $index, $element := .Params.geschichte }}
+            <div class="swiper-slide" style="background-image: url(/img/{{.imageUrl}}.jpg)" data-year="{{ .year }}">
+              <div class="swiper-slide-content"><span class="timeline-year">{{ .year }}</span>
+                <h4 class="timeline-title">{{ .heading }}</h4>
+                <p class="timeline-text">{{.text | markdownify }}</p>
+              </div>
             </div>
-          </div>
-        {{ end }}
+          {{ end }}
+        </div>
+        <div class="swiper-button-prev"></div>
+        <div class="swiper-button-next"></div>
+        <div class="swiper-pagination"></div>
       </div>
-      <div class="swiper-button-prev"></div>
-      <div class="swiper-button-next"></div>
-      <div class="swiper-pagination"></div>
     </div>
   </div>
-</div>
 
 {{ end }}

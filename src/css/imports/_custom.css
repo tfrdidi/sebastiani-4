@@ -156,13 +156,6 @@
     flex-direction: column;
   }
   
-  .title {
-    font-size: 38px;
-    color: #616161;
-    font-style: italic;
-    font-weight: 800;
-  }
-  
   .timeline {
     width: 100%;
     background-color: #fff;
@@ -211,7 +204,7 @@
     display: block;
     font-style: italic;
     font-size: 42px;
-    margin-bottom: 30px;
+    margin-bottom: 10px;
     transform: translate3d(20px, 0, 0);
     color: var(--primary);
     font-weight: 300;
@@ -221,7 +214,7 @@
   }
   .timeline .swiper-slide .timeline-title {
     font-weight: 800;
-    font-size: 34px;
+    font-size: 36px;
     margin: 0 0 20px;
     opacity: 0;
     transform: translate3d(20px, 0, 0);
@@ -272,12 +265,14 @@
   .timeline .swiper-pagination-bullet {
     width: auto;
     height: auto;
+    font-size: 24px;
     text-align: center;
     opacity: 1;
     background: transparent;
     color: var(--primary);
-    margin: 15px 0 !important;
+    margin: 12px 0 !important;
     position: relative;
+    text-shadow: 0 0 2px rgb(99, 99, 99);
   }
   .timeline .swiper-pagination-bullet::before {
     content: "";
@@ -300,7 +295,7 @@
   .timeline .swiper-button-next,
   .timeline .swiper-button-prev {
     background-size: 40px 40px;
-    top: 15%;
+    top: 3%;
     width: 40px;
     height: 40px;
     margin-top: 0;
@@ -325,22 +320,22 @@
   @media screen and (min-width: 768px) {
     .timeline .swiper-slide::after {
       right: -30%;
-      bottom: -8%;
+      bottom: -3%;
       width: 240px;
       height: 50%;
       box-shadow: -230px 0 150px 50vw rgba(0, 0, 0, 0.7);
     }
     .timeline .swiper-slide-content {
-      right: 30%;
+      right: 35%;
       top: 50%;
       transform: translateY(-50%);
-      width: 310px;
+      width: 450px;
       font-size: 11px;
       text-align: right;
     }
     .timeline .swiper-slide .timeline-year {
       margin-bottom: 0;
-      font-size: 32px;
+      font-size: 38px;
     }
     .timeline .swiper-slide .timeline-title {
       font-size: 46px;
@@ -350,7 +345,7 @@
       display: flex;
     }
     .timeline .swiper-button-prev {
-      top: 15%;
+      top: 8%;
       left: auto;
       right: 15%;
       transform: rotate(90deg) translate(0, 10px);
@@ -360,7 +355,7 @@
     }
     .timeline .swiper-button-next {
       top: auto;
-      bottom: 15%;
+      bottom: 3%;
       right: 15%;
       transform: rotate(90deg) translate(0, 10px);
     }
@@ -377,6 +372,6 @@
       box-shadow: -230px 0 150px 39vw rgba(0, 0, 0, 0.7);
     }
     .timeline .swiper-slide-content {
-      right: 25%;
+      right: 32%;
     }
   }
