@@ -85,5 +85,8 @@
 /* Uncomment out the line below to help debug layout issues */
 /*@import './imports/_debug';*/
 
+/* timeline */
+@import './imports/_swiper.css';
 
 @import './imports/_custom';
+
