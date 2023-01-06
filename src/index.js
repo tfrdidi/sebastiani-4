@@ -14,7 +14,7 @@ import Swiper from './js/swiper';
 
 var swiper = new Swiper(".swiper-container", {
     direction: 'vertical',
-    loop: true,
+    loop: false,
     speed: 600,
     pagination: '.swiper-pagination',
     effect: 'fade',
