@@ -26,7 +26,12 @@ geschichte:
   - heading: Zweiter Weltkrieg
     year: 1943 – 1946
     text: > 
-      Während des Krieges, von 1943 bis 1946, wurde das Fest nicht gefeiert. Erst verboten die Nationalsozialisten und anschließend die Amerikaner als Besatzungsmacht den militärischen Aufzug mit Waffen und Marschmusik. 1947 wurde zunächst ohne Gewehre, Zylinder und Musik zelebriert. Nachdem die funktionsfähigen Waffen unbrauchbar gemacht wurden und durch geschicktes und zähes Verhandeln des damaligen Hauptmanns Edmund Väth mit beiden Machthabern, konnte die Feierlichkeit **1949 wieder mit Waffen, Gehröcken und Zylindern** stattfinden. Für seine Verdienste wurde Edmund Väth zum Ehrenhauptmann ernannt.
+      Während des Krieges, von 1943 bis 1946, wurde das Fest nicht gefeiert. Erst verboten die Nationalsozialisten und anschließend die Amerikaner als Besatzungsmacht den militärischen Aufzug mit Waffen und Marschmusik. 1947 wurde zunächst ohne Gewehre, Zylinder und Musik zelebriert.
+    imageUrl: F-13
+  - heading: Erstes Fest nacht altem Ablauf
+    year: 1949
+    text: > 
+      Nachdem die funktionsfähigen Waffen unbrauchbar gemacht wurden und durch geschicktes und zähes Verhandeln des damaligen Hauptmanns Edmund Väth mit beiden Machthabern, konnte die Feierlichkeit **1949 wieder mit Waffen, Gehröcken und Zylindern** stattfinden. Für seine Verdienste wurde Edmund Väth zum Ehrenhauptmann ernannt.
     imageUrl: F-13
   - heading: 350 Jahre Sebastiani
     year: 1982
