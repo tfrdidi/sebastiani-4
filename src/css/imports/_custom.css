@@ -19,6 +19,9 @@
     position: fixed;
     width: 100%;
     z-index: 3;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
   }
   
   .header ul {
@@ -139,6 +142,13 @@
     top: 0;
   }
   
+  .jumbotron-no-image {
+    display: none;
+  }
+
+  .mobileTitle {
+    font-size: 1.4em;
+  }
   
   @media (min-width: 68em) {
     .header li {
@@ -166,6 +176,14 @@
     .header .logoSmall {
       display: none;
     }
+
+    .jumbotron-no-image {
+      display: block;
+    }
+
+    .mobileTitle {
+      display: none;
+    }
   }
   
   .pagination {
@@ -183,6 +201,7 @@
     align-items: center;
     background-color: #fff;
     flex-direction: column;
+    padding-top: 60px;
   }
   
   .timeline {
@@ -383,7 +402,7 @@
       display: flex;
     }
     .timeline .swiper-button-prev {
-      top: 8%;
+      top: 10%;
       left: auto;
       right: 17%;
       transform: rotate(90deg) translate(0, 10px);
