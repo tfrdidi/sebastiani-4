@@ -1,17 +1,25 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
+{{ partial "jumbotron-no-image" (dict "title" .Title) }}
 
-<div class="mw7 center ph3 pt4">
-
-  {{ range $index, $element := .Params.geschichte }}
-    {{ if modBool $index 2 }}
-      {{ partial "media-block" $element }}
-    {{ else }}
-      {{ partial "media-block-reverse" $element }}
-    {{ end }}
-  {{ end }}
-
-</div>
+  <div class="container">
+    <div class="timeline">
+      <div class="swiper-container">
+        <div class="swiper-wrapper">
+          {{ range $index, $element := .Params.geschichte }}
+            <div class="swiper-slide" style="background-image: url(/img/{{.imageUrl}}.jpg)" data-year="{{ .year }}" data-hash="{{ .year }}">
+              <div class="swiper-slide-content"><span class="timeline-year">{{ .year }}</span>
+                <h4 class="timeline-title">{{ .heading }}</h4>
+                <p class="timeline-text">{{.text | markdownify }}</p>
+              </div>
+            </div>
+          {{ end }}
+        </div>
+        <div class="swiper-button-prev"></div>
+        <div class="swiper-button-next"></div>
+        <div class="swiper-pagination"></div>
+      </div>
+    </div>
+  </div>
 
 {{ end }}

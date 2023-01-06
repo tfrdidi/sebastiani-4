@@ -1,6 +1,6 @@
 ---
 title: Geschichte
-
+image: /img/F-1-wide.jpg
 geschichte:
   - heading: Die Ursprünge
     year: 1632
