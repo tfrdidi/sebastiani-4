@@ -14,7 +14,7 @@ import Swiper from './js/swiper';
 
 var swiper = new Swiper(".swiper-container", {
     direction: 'vertical',
-    loop: false,
+    loop: true,
     speed: 600,
     pagination: '.swiper-pagination',
     effect: 'fade',
@@ -29,7 +29,9 @@ var swiper = new Swiper(".swiper-container", {
         768: {
             direction: 'horizontal',
         }
-    }
+    },
+    watchState: true,
+    hashnav: true
 });
   
   console.log("🦊 Hello from didi");

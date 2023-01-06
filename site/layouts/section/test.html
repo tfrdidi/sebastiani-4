@@ -2,13 +2,12 @@
 
 {{ partial "jumbotron-no-image" (dict "title" .Title) }}
 
-
   <div class="container">
     <div class="timeline">
       <div class="swiper-container">
         <div class="swiper-wrapper">
           {{ range $index, $element := .Params.geschichte }}
-            <div class="swiper-slide" style="background-image: url(/img/{{.imageUrl}}.jpg)" data-year="{{ .year }}">
+            <div class="swiper-slide" style="background-image: url(/img/{{.imageUrl}}.jpg)" data-year="{{ .year }}" data-hash="{{ .year }}">
               <div class="swiper-slide-content"><span class="timeline-year">{{ .year }}</span>
                 <h4 class="timeline-title">{{ .heading }}</h4>
                 <p class="timeline-text">{{.text | markdownify }}</p>

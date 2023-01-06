@@ -223,6 +223,7 @@
     transition: 0.2s ease 0.6s;
     font-size: 18px;
     text-shadow: 0 0 4px rgb(49, 49, 49);
+    text-align: justify;
   }
   .timeline .swiper-slide-active .timeline-year {
     opacity: 1;
