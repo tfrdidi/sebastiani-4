@@ -41,12 +41,25 @@
     background-color: #f4f4f4;
   }
   
-  .header .logo {
-    display: block;
+  .header .logoLarge {
+    display: None;
     float: left;
     font-size: 1.6em;
     padding: 8px 20px;
     text-decoration: none;
+  }
+
+  .header .logoSmall {
+    display: block;
+    float: left;
+    font-size: 1.6em;
+    padding: 0 15px;
+    text-decoration: none;
+    box-shadow: 4px 4px 5px grey;
+    border: 1px grey;
+    border-style: solid;
+    margin: 4px;
+    cursor: pointer;
   }
   
   /* menu */
@@ -140,6 +153,17 @@
       max-height: none;
     }
     .header .menu-icon {
+      display: none;
+    }
+    .header .logoLarge {
+      display: block;
+      float: left;
+      font-size: 1.6em;
+      padding: 8px 20px;
+      text-decoration: none;
+    }
+  
+    .header .logoSmall {
       display: none;
     }
   }
