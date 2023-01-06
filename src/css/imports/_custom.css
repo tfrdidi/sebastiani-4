@@ -213,7 +213,7 @@
     font-weight: 300;
     opacity: 0;
     transition: 0.2s ease 0.4s;
-    text-shadow: 0 0 2px rgb(187, 187, 187);
+    text-shadow: 0 0 5px #fbfbfb, 0 0 10px #fff, 0 0 15px #fff;
   }
   .timeline .swiper-slide .timeline-title {
     font-weight: 800;
@@ -262,7 +262,7 @@
     left: -30px;
     top: 0;
     height: 100%;
-    width: 1px;
+    width: 2px;
     background-color: rgba(255, 255, 255, 0.2);
   }
   .timeline .swiper-pagination-bullet {
@@ -275,7 +275,7 @@
     color: var(--primary);
     margin: 12px 0 !important;
     position: relative;
-    text-shadow: 0 0 2px rgb(99, 99, 99);
+    text-shadow: 0 0 5px #fbfbfb, 0 0 10px #fff, 0 0 15px #fff;
   }
   .timeline .swiper-pagination-bullet::before {
     content: "";
@@ -293,7 +293,7 @@
     color: var(--primary);
   }
   .timeline .swiper-pagination-bullet-active::before {
-    transform: scale(1);
+    transform: scale(2);
   }
   .timeline .swiper-button-next,
   .timeline .swiper-button-prev {
@@ -349,6 +349,7 @@
     .timeline .swiper-slide .timeline-year {
       margin-bottom: 0;
       font-size: 38px;
+      text-shadow: 0 0 5px #fbfbfb, 0 0 10px #fff, 0 0 15px #fff;
     }
     .timeline .swiper-slide .timeline-title {
       font-size: 46px;
