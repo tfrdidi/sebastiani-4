@@ -33,7 +33,9 @@ geschichte:
   - heading: Erstes Fest nacht altem Ablauf
     year: 1949
     text: > 
-      Nachdem die funktionsfähigen Waffen unbrauchbar gemacht wurden und durch geschicktes und zähes Verhandeln des damaligen Hauptmanns **Edmund Väth** mit beiden Machthabern, konnte die Feierlichkeit **1949** wieder mit Waffen, Gehröcken und Zylindern stattfinden. Für seine Verdienste wurde Edmund Väth zum **Ehrenhauptmann** ernannt.
+      Nachdem die funktionsfähigen Waffen unbrauchbar gemacht wurden und durch geschicktes und zähes Verhandeln des damaligen Hauptmanns **Edmund Väth** mit beiden Machthabern, konnte die Feierlichkeit **1949** wieder mit Waffen, Gehröcken und Zylindern stattfinden. Für seine Verdienste wurde Edmund Väth zum **Ehrenhauptmann** ernannt.\
+
+      Die ersten Fotos die sich nachweislich einem der Nachkriegsjahre zuordnen lassen sind von [1952](/bilder/1952).
     imageUrl: F-13
   - heading: 350 Jahre Sebastiani
     year: 1982
