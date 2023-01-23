@@ -47,8 +47,8 @@ testimonials:
   - author: 5 neue Mitglieder 2020
     quote: >-
       Wir sind stolz die Tradition unseres Heimatortes weiterzutragen.
-full_image: /img/2020/F-3223.jpg
+full_image: /img/2023/F-3868-square.jpg
 type: ablauf
 ---
 
-Der Gedenktag des heiligen Sebastian ist der 20. Januar. Die offizielle Zeremonie beginnt immer am Samstag des Wochenendes, das dem Gedenktag am nächsten ist. Das nächste Sebastiani-Fest findet vom Samstag, den 21.01.2023, bis zum Montag, dem 23.01.2023, statt. [Hier ist der detaillierte Ablauf](/neuigkeiten/ablauf-sebastianifest-2023/).
+Der Gedenktag des heiligen Sebastian ist der 20. Januar. Die offizielle Zeremonie beginnt immer am Samstag des Wochenendes, das dem Gedenktag am nächsten ist. Das nächste Sebastiani-Fest findet vom Samstag, den 20.01.2024, bis zum Montag, dem 22.01.2024 statt.
