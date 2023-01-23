@@ -49,6 +49,6 @@ geschichte:
 
       Im Juli [2022](/bilder/2022) konnten wir am Tag des Frühschoppens der Musikkapelle Lengfurt einen Teil der äußeren Zeremonie nachfeiern. An diesem Wochenende wurd ebenfalls unsere neue blaue Fahne geweiht.\
 
-      Im Januar 2023 wird das Fest wieder in gewohnter [Form](/neuigkeiten/ablauf-sebastianifest-2023/) statt finden. Hierzu möchten wir Sie herzlich einladen!
+      Im [Januar 2023](/bilder/2023/) konnte das Fest wieder in gewohnter [Form](/neuigkeiten/ablauf-sebastianifest-2023/) statt finden. Hierüber sind wir sehr froh!
     imageUrl: 2021/F-3476
 ---
