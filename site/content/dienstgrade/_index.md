@@ -4,18 +4,17 @@ subtitle: Alle Dienstgrade und deren Aufgaben
 image: /img/2019/F-2644.jpg
 type: dienstgrade
 inhalt: 
-  heading: test
-  full_image: img/2020/F-3080.jpg
+  full_image: img/2023/F-3876-wide.jpg
   dienstgrade: 
     - heading: Hauptmann
       description: >
         Der Hauptmann ist der ranghöchste Offizier und Vorstand des Vereins. Außerdem vertritt er den Verein nach außen hin. Er ist verantwortlich für den alljährlichen Festablauf und kommandiert die Soldaten. Seine Erkennungszeichen sind der Säbel, der Schiffshut, die 3 Streifen auf dem Gehrock und die 4 Sterne auf den Schulterstücken.
-      image: img/F-3419-med.jpg
+      image: img/2023/F-3800-med.jpg
 
     - heading: Oberleutnant
       description: >
         Der Oberleutnant ist der Stellvertreter des Hauptmanns und der Kommandant des ersten Zuges. Er lässt am Sonntag vor dem Festgottesdienst die Soldaten antreten und übergibt dann das Kommando an den Hauptmann. Wie der Hauptmann trägt auch er einen Säbel und einen Schiffshut. Er hat zwei goldene Streifen auf dem Gehrock und goldene Schulterstücke.
-      image: img/F-2515-med.jpg
+      image: img/2022/F-3644-med.jpg
 
     - heading: Leutnants
       description: >
@@ -40,22 +39,22 @@ inhalt:
     - heading: Fähnrich
       description: >
         Der Fähnrich trägt die Vereinsfahne. Er steckt diese jeweils in der Kirche und an der Dreifaltigkeitssäule auf. Außerdem schwenkt er die Fahne auf dem Marktplatz zu dem Musikstück “Über den Wellen”, dem Höhepunkt des Festes.
-      image: img/2020/F-3399-med.jpg
+      image: img/2023/F-3868-square.jpg
 
     - heading: Pioniere
       description: >
         Es gibt zwei Pioniere. Sie führen die Soldaten an. Gekleidet sind sie mit einer weißen Lederschürze, dazu tragen Sie Äxte. Ihre Aufgabe ist es den Weg für die Soldaten zu bereiten.
-      image: img/2020/F-3107-med.jpg
+      image: img/2023/F-3806-med.jpg
       
     - heading: Trommler
       description: >
         Es gibt bis zu sechs Trommler, die abwechselnd mit der Musikkapelle den Takt für die Soldaten angeben. Getrommelt wird bei den beiden Zapfenstreichen, beim Aufzug, zum Weckruf und vor den Gottesdiensten. Die Trommler tragen Zylinder und anstatt der Krawatte eine Fliege.
-      image: img/2018/F-2468-med.jpg
+      image: img/2023/F-3809-med.jpg
 
     - heading: Wachmannschaft
       description: >
         Die Soldaten des dritten Zuges bilden die Wachmannschaft. Sie tragen Zylinder und Vorderladergewehre ohne Bajonett. Die Wachmannschaft wird mit den Jüngsten des Vereines besetzt. Ihre besondere Aufgabe ist die Bewachung der Vereinsfahne an der Dreifaltigkeitssäule.
-      image: img/2020/F-3078-med.jpg
+      image: img/2023/F-3873.jpg
 
     - heading: Kanoniere
       description: >
