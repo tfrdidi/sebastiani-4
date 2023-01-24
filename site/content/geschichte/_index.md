@@ -30,7 +30,7 @@ geschichte:
       
       Lange war nicht klar, ob ein Fest in der alten Form überhaupt wieder gefeiert werden durfte. 1947 wurde zunächst ohne Gewehre, Zylinder und Musik zelebriert.
     imageUrl: F-13
-  - heading: Erstes Fest nacht altem Ablauf
+  - heading: Erstes Fest nach altem Ablauf
     year: 1949
     text: > 
       Nachdem die funktionsfähigen Waffen unbrauchbar gemacht wurden und durch geschicktes und zähes Verhandeln des damaligen Hauptmanns **Edmund Väth** mit beiden Machthabern, konnte die Feierlichkeit **1949** wieder mit Waffen, Gehröcken und Zylindern stattfinden. Für seine Verdienste wurde Edmund Väth zum **Ehrenhauptmann** ernannt.\
